@@ -1,4 +1,4 @@
-Saluran komunikasi dapat di klasifikasikan menjadi 3 jenis yaitu: 
+Komunikasi dapat di klasifikasikan menjadi 3 jenis yaitu: 
 
 1. Komunikasi Simplex merupakan komunikasi dalam satu arah. Karena sinyal hanya dapat mengalir dalam satu arah, perangkat yang mengirim menggunakan semua saluran komunikasi atau semua bandwith yang tersedia. Contoh dari mode simplex ini diantara lain adalah televisi, keyboard, dan radio. 
 2. Komunikasi Half Duplex merupakan komunikasi dalam dua arah namun tidak pada satu waktu yang sama, yang mana perangkat inin hanya dapat menjadi transmitter atau reciever pada suatu waktu. Dalam mode half duplex, sinyal bepergian dalam dua arah melalui medium tetapi hanya pada satu arah dalam satu. Contoh dari mode simplex ini diantaranya adalah transceiver atau walkie-talkie.
